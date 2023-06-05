@@ -1,0 +1,28 @@
+TRADICIONAL/MODERNA
+	Basico/Basico inmovil
+		cruzar alante
+		cruzar atraz
+	Vuelta posA
+		vuelta en 4 seguidor->n1/n2/n3
+		vuelta en 4/8 lider->n1/n2/n3
+		shaolin
+		
+	Vuelta posC
+		vuelta en 4 izquierta
+	cuadrado
+	showoff
+		deslizar
+		arcoiris
+
+TRADICIONAL
+	triple step ->basico/inmovil/sidetoside
+	tradicional
+	diagonal basico ->sidetoside/insite/patras/palante
+	showoff
+		punta talon
+	
+MODERNA:
+	VUELTA
+		SHAIOLIN
+		TIRALA
+	tu y yo ->salidashaolin/deslizar/salida rapida
